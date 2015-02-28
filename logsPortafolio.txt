@@ -1,0 +1,65 @@
+commit 32dd9b83198d1520b8de211af0aa238b2f8f1ab9
+Author: agasca <profesorweb@yahoo.com>
+Date:   Sat Feb 28 12:27:18 2015 -0600
+
+    incluyendo gram
+
+commit 5fca8c1c5c70ef72902eaf65c0ad5eff616621a2
+Author: al <profesorweb@yahoo.com>
+Date:   Wed Nov 19 09:13:15 2014 -0600
+
+    20141118Actualizado
+
+commit d9e7a11f0fcfc566c0ca5a1ac84ca4ee4fdf0d0b
+Author: al <profesorweb@yahoo.com>
+Date:   Sat Nov 15 14:34:00 2014 -0600
+
+    2014115 Actualizado
+
+commit 2a4da26989926cc48761547f74aeafdc8bc0cb71
+Author: al <profesorweb@yahoo.com>
+Date:   Sat Nov 15 14:20:53 2014 -0600
+
+    20141115 Actualizado
+
+commit 662e4716dd8eaab6d89770ef1186859b60ed249a
+Author: al <profesorweb@yahoo.com>
+Date:   Sat Nov 15 14:16:25 2014 -0600
+
+    20141115 Actualizado
+
+commit 12e2fabb2f3f81d22b4a1808e92d16cad623d509
+Author: al <profesorweb@yahoo.com>
+Date:   Sat Nov 15 14:14:07 2014 -0600
+
+    20141115 Actualizado
+
+commit ea62f3297727a2a556c6ad15391ae349e489f694
+Author: al <profesorweb@yahoo.com>
+Date:   Sat Nov 15 13:16:47 2014 -0600
+
+    20141115 Actualizado
+
+commit c3d0dad51ac06db59f005df450f9b59be178ab89
+Author: al <profesorweb@yahoo.com>
+Date:   Sat Nov 15 12:59:37 2014 -0600
+
+    20141115 Actualizado
+
+commit 74e4d87e5732011e32a4f14d7b8ae43419e38559
+Author: al <profesorweb@yahoo.com>
+Date:   Sat Nov 15 12:56:17 2014 -0600
+
+    20141115 Actualizado
+
+commit 8041f434b1c2f63581a2876d227958183e366948
+Author: al <profesorweb@yahoo.com>
+Date:   Sat Nov 15 12:53:26 2014 -0600
+
+    2014115 actualizado
+
+commit 02602baea163ea0cc734adff5be81a6b33b2ba4d
+Author: al <profesorweb@yahoo.com>
+Date:   Fri Nov 14 20:29:42 2014 -0600
+
+    first commit
